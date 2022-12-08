@@ -1,8 +1,7 @@
 **👋 Hi, I’m Sakhmina !**
-I'm looking forward to becoming a part of IT-community as a **Java-developer**.
+I'm a **Java developer**. I graduated from university with bachelor's degree in Software engineering in 2022th. In my last year of university, I took [courses](https://netology.ru/programs/java-developer) in Java from Netology.
 
->🌱 Currently I'm learning Java with [Netology](https://netology.ru/programs/java-developer) and studying in my last year at University(**Computer Science**)
-at the same time :)
+>🌱 Currently I'm working as a developer and trying to catch up with latest technologies :)
 
 
 Mostly I’m interested in Software development. 
