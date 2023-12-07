@@ -6,7 +6,7 @@ I'm a **Java developer**. I graduated from university with bachelor's degree in 
 
 Mostly I’m interested in Software development. 
 
-💌 You can ***reach me*** by email(*asakhmina@gmail.com*) or Telegram(@Sakhmina).
+💌 You can ***reach me*** by email(*asakhmina@gmail.com*).
 
 
 *Thanks for reading this :)*
